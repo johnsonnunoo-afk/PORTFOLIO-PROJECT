@@ -19,6 +19,34 @@ export default function Projects() {
       tags: ["SQL", "Dashboard", "Metabase", "ETL"],
       url: "https://startup-pulse-peek-8663089f-1.onrender.com/",
       type: "LIVE_DASHBOARD"
+    },
+    {
+      title: "A/B Test Analyzer",
+      description: "Statistical significance engine for A/B experiments. Evaluates test variants, computes confidence intervals, and surfaces actionable insights from experimentation data.",
+      tags: ["Python", "Statistics", "Streamlit", "Pandas"],
+      url: "https://ab-test-analyzer-d0pr.onrender.com/",
+      type: "LIVE_DASHBOARD"
+    },
+    {
+      title: "Startup Pulse Dashboard",
+      description: "Interactive startup ecosystem monitor visualizing funding activity, growth trajectories, and investor sentiment across emerging tech sectors.",
+      tags: ["Python", "Plotly", "Streamlit", "Analytics"],
+      url: "https://startup-pulse-dashboard.onrender.com/",
+      type: "LIVE_DASHBOARD"
+    },
+    {
+      title: "Startup Performance Dashboard",
+      description: "End-to-end performance benchmarking suite for startups. Measures KPIs across growth, retention, burn rate, and unit economics in one unified view.",
+      tags: ["Python", "Streamlit", "Pandas", "Plotly"],
+      url: "https://startup-performance-dashboard.onrender.com/",
+      type: "LIVE_DASHBOARD"
+    },
+    {
+      title: "Growth Insights Dashboard",
+      description: "Marketing and growth analytics platform surfacing acquisition funnel metrics, cohort retention curves, and channel ROI for data-driven decision making.",
+      tags: ["Python", "Streamlit", "Plotly", "SQL"],
+      url: "https://growth-insights-dashboard.onrender.com/",
+      type: "LIVE_DASHBOARD"
     }
   ];
 
